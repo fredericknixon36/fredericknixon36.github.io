@@ -1,5 +1,5 @@
 # fredericknixon36.github.io
-# Hi there, I'm Fred! 👋
+# Hi there, I'm Fred! 
 
 ### 🛡️ IT Infrastructure Veteran | Cybersecurity Candidate @ Merit America
 I am an IT professional with **8 years of hands-on experience** diagnosing, securing, and optimizing enterprise desktop and network environments. Having spent nearly a decade managing endpoints and identities on the front lines, I am currently leveraging **Merit America’s intensive professional development program** to pivot my deep troubleshooting skillset into a dedicated **Cybersecurity Analyst** role.
@@ -12,16 +12,16 @@ I am an IT professional with **8 years of hands-on experience** diagnosing, secu
   <summary><b>🔒 Cybersecurity Focus & Frameworks</b></summary>
   <br>
 
-  - **Tools & SIEM:** Linux (Kali), Python, Wireshark, Chronicle SIEM, SQL
+  - **Tools & SIEM:** Linux, Python, SIEM, SQL
   - **Frameworks:** NIST Cybersecurity Framework (CSF), MITRE ATT&CK Matrix
   - **Core Security:** Incident Response, Network Security, Threat Detection, IAM
 </details>
 
 <details>
-  <summary><b>🖥️ Systems & Network Administration (8 Years Core)</b></summary>
+  <summary><b>🖥️ Systems & Network Administration (10 Years Core)</b></summary>
   <br>
 
-  - **Operating Systems:** Windows Server 2016-2022, Windows 10/11, macOS
+  - **Operating Systems:** Windows Server 2016-2026, Windows 10/11, macOS
   - **Networking:** TCP/IP, DNS, DHCP, VPN configurations, Firewall administration
   - **Identity Management:** Active Directory, Azure AD, Group Policy Objects (GPO)
   - **Automation:** PowerShell scripting for routine audits and system log parsing
@@ -143,6 +143,5 @@ I am an IT professional with **8 years of hands-on experience** diagnosing, secu
 ---
 
 ### 📬 Let's Connect!
-- **LinkedIn:** [@yourusername](https://linkedin.com)
-- **Portfolio / Tech Blog:** [yourwebsite.com](https://yourwebsite.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [fredericknixon36](https://www.linkedin.com/in/frederick-nixon36/)
+- **Email:** [fredericknixon36@gmail.com](mailto:fredericknixon36@gmail.com)
