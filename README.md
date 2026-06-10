@@ -58,7 +58,72 @@ I am an IT professional with **8 years of hands-on experience** diagnosing, secu
   <summary><b>📂 My Cybersecurity Repositories</b></summary>
   <br>
 
-  - **[Security Audit](https://github.com/fredericknixon36/Portfolio-project--Security-Audit):** Google-Based project performing Security Audit for toy manufacturer 
+  <details>
+  <summary><b>🛡️ Security Audit: Toy Manufacturer Case Study [✅ Complete]</b></summary>
+  <br>
+
+  ### 🔍 Project Overview
+  A comprehensive, hands-on security audit performed for a fictional toy manufacturer, following the structured risk-assessment framework learned through the Google Cybersecurity program. This project evaluates organizational assets, identifies control vulnerabilities, and provides actionable remediation strategies to ensure compliance and robust endpoint security.
+
+  ### ⚙️ Skills & Frameworks Applied
+  - **Frameworks:** NIST Cybersecurity Framework (CSF), ISO 27001 mapping
+  - **Risk Assessment:** Qualitative Risk Analysis, Asset Identification, Vulnerability Assessment
+  - **Controls Evaluated:** Administrative (Policies), Technical (Firewalls, IAM), and Physical Security controls
+  - **Compliance Pillars:** Confidentiality, Integrity, and Availability (CIA Triad)
+
+  ### 📁 View the Documentation
+  - **Full Repository:** [Portfolio Project - Security Audit](https://github.com/fredericknixon36/Portfolio-project--Security-Audit)
+  - **Deliverables Included:** Completed Internal Security Audit Checklists, Risk Assessment Reports, and Executive Remediation Recommendations.
+</details>
+
+<details>
+  <summary><b>📓 TryHackMe Journal [⚠️ Coming Soon]</b></summary>
+  <br>
+
+  ### 🔍 Overview
+  This repository will host my complete write-ups, methodologies, and technical insights from completing various TryHackMe rooms, focusing on blue team operations, defensive security, and network analysis.
+  
+  - **Status:** Planning & Active Lab Work
+  - **Target Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+  - **Link:** `[Repository Link Coming Soon]`
+</details>
+
+<details>
+  <summary><b>🚨 Incident Handler's Journal [⚠️ Coming Soon]</b></summary>
+  <br>
+
+  ### 🔍 Overview
+  A collection of simulated incident response playbooks, mock containment strategies, and step-by-step documentation detailing how to respond to common enterprise security threats.
+  
+  - **Status:** Outline Phase (Aligning with NIST SP 800-61 framework)
+  - **Focus Areas:** Preparation, Detection, Analysis, Containment, Eradication, and Recovery.
+  - **Link:** `[Repository Link Coming Soon]`
+</details>
+
+<details>
+  <summary><b>💥 Vulnerable System Analysis [⚠️ Coming Soon]</b></summary>
+  <br>
+
+  ### 🔍 Overview
+  Deep-dive technical reviews and structural analyses of vulnerable network systems, patch management failures, and methods used to secure open exposures in enterprise environments.
+  
+  - **Status:** Lab Environment Setup
+  - **Tools Featured:** OpenVAS / Nessus Essentials, Wireshark, Nmap
+  - **Link:** `[Repository Link Coming Soon]`
+</details>
+
+<details>
+  <summary><b>📊 SQL Query Portfolio [⚠️ Coming Soon]</b></summary>
+  <br>
+
+  ### 🔍 Overview
+  A curated collection of SQL scripts and queries designed to audit user permissions, track hardware/software inventory assets, and extract security events from large databases.
+  
+  - **Status:** Writing Query Templates (Google Certificate labs integration)
+  - **Database Types:** PostgreSQL / MySQL
+  - **Link:** `[Repository Link Coming Soon]`
+</details>
+
     
 </details>
 
